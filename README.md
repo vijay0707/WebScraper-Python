@@ -1,5 +1,5 @@
 # WebScraper-Python
-Quotes web scraper using Python (BeautifulSoup Lib) and MongoDb
+Quotes web scraper using Python-BeautifulSoup Library and MongoDB
 
 ### website to be scraped : [http://quotes.toscrape.com/](http://quotes.toscrape.com/)
 Quotes.toscrape was built to practice web scraping.
@@ -26,3 +26,6 @@ Let’s activate the virtual environment:
 ### Installing the dependencies
 Run the following command:
 **``pip install -r requirements.txt``** 
+
+### Creating a cluster in mongodb
+#### Refer: [mongo-db-cluster-setup](https://www.mongodb.com/basics/clusters/mongodb-cluster-setup)

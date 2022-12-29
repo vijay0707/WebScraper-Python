@@ -1,5 +1,5 @@
 # WebScraper-Python
-![webscraping-python](https://github.com/vijay0707/WebScraper-Python/blob/master/web-scraping-with-python.png)
+![webscraping-python](web-scraping-with-python.png)
 Quotes web scraper using Python-BeautifulSoup Library and MongoDB
 
 ### website to be scraped : [http://quotes.toscrape.com/](http://quotes.toscrape.com/)
@@ -30,3 +30,4 @@ Run the following command:
 
 ### Creating a cluster in mongodb
 #### Refer: [mongo-db-cluster-setup](https://www.mongodb.com/basics/clusters/mongodb-cluster-setup)
+**Note: Add the Mongo Connection string to .env file**

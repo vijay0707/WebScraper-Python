@@ -1,5 +1,3 @@
-![webscraping-python](web-scraping-with-python.png)
-
 # WebScraper-Python
 Quotes web scraper using Python-BeautifulSoup Library and MongoDB
 

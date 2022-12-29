@@ -1,5 +1,5 @@
 # WebScraper-Python
-![](https://github.com/vijay0707/WebScraper-Python/blob/master/web-scraping-with-python.png)
+![webscraping-python](https://github.com/vijay0707/WebScraper-Python/blob/master/web-scraping-with-python.png)
 Quotes web scraper using Python-BeautifulSoup Library and MongoDB
 
 ### website to be scraped : [http://quotes.toscrape.com/](http://quotes.toscrape.com/)
